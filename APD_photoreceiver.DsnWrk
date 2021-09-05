@@ -1,0 +1,6 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=PeltierDrv_part\PeltierDrv_part.PrjPcb
+[Project2]
+ProjectPath=APD_part\APD_part.PrjPcb
